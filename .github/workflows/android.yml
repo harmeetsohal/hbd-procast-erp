@@ -1,4 +1,4 @@
-name: Build HBD ProBill APK
+name: Build HBD ProcastBill APK
 
 on:
   workflow_dispatch:
